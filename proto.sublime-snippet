@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+message ${1:Message} {
+	optional ${2:type} ${3:var} = 1;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mess</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.proto</scope>
+</snippet>
