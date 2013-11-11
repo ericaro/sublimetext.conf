@@ -1,10 +1,20 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"ASCII Decorator",
 		"Duplicate Lines",
+		"Git",
 		"GoSublime",
+		"Http Requester",
+		"INI",
 		"Markdown Preview",
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"MaxPane",
+		"Navigation History",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeGDB",
+		"SublimeLinter"
 	]
 }

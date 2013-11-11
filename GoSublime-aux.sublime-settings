@@ -3,8 +3,27 @@
 	[
 		"help"
 	],
-	"ann": "a13.08.14-2",
-	"install_version": "r13.08.14-2",
+	"9o.hist./home/eric/Workspace/git/ptng/src/powerteam/business":
+	[
+		"go build",
+		"watch go build"
+	],
+	"9o.hist./home/eric/Workspace/git/ptng/src/powerteam/castore":
+	[
+		"watch build",
+		"help",
+		"tskill",
+		"clear",
+		"build"
+	],
+	"9o.hist./home/eric/Workspace/git/ptng/src/powerteam/redistore":
+	[
+		"go build",
+		"help",
+		"build"
+	],
+	"ann": "a13.10.05-1",
+	"install_version": "r13.10.05-1",
 	"mg9_install_tokens": "r13.04.01-1",
-	"version": "r13.08.14-2"
+	"version": "r13.10.05-1"
 }

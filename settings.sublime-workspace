@@ -1,0 +1,1606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Write",
+				"WriteHeader	 ƒ"
+			],
+			[
+				"C",
+				"Commit	 ƒ"
+			],
+			[
+				"NewU",
+				"NewUuidHex	*blobstore.Uuid ƒ"
+			],
+			[
+				"seri",
+				"serializeObject"
+			],
+			[
+				"cu",
+				"cublobid	*blobstore.BlobID ν"
+			],
+			[
+				"G",
+				"GetUuid	*blobstore.Uuid ƒ"
+			],
+			[
+				"Con",
+				"ConsumptionUnitPower	struct ʈ"
+			],
+			[
+				"fail",
+				"fail_handler"
+			],
+			[
+				"Ref",
+				"RefStore	 ƒ"
+			],
+			[
+				"IPV",
+				"IPVersionLong	struct ʈ"
+			],
+			[
+				"IP",
+				"IPVersion_	*entity.MetaEntity ν"
+			],
+			[
+				"ips",
+				"ipversions"
+			],
+			[
+				"emp",
+				"emptyli"
+			],
+			[
+				"StatusC",
+				"StatusCreated	 Ɩ"
+			],
+			[
+				"W",
+				"WriteHeader	 ƒ"
+			],
+			[
+				"Project",
+				"Project_	*entity.MetaEntity ν"
+			],
+			[
+				"A",
+				"AppServer	struct ʈ"
+			],
+			[
+				"S",
+				"Scripts	[]string ƒ"
+			],
+			[
+				"Macr",
+				"MacroblockCommits	struct ʈ"
+			],
+			[
+				"compo",
+				"componentnumber"
+			],
+			[
+				"M",
+				"ModeNumber	int ν"
+			],
+			[
+				"R",
+				"ReadAll	[]byte, error ƒ"
+			],
+			[
+				"str",
+				"strDep	 ƒ"
+			],
+			[
+				"Status",
+				"StatusMethodNotAllowed	 Ɩ"
+			],
+			[
+				"N",
+				"NewHashHex	*blobstore.Hash ƒ"
+			],
+			[
+				"commit",
+				"commitDict	map[string]*Commit ν"
+			],
+			[
+				"commi",
+				"commitList	[]*Commit ν"
+			],
+			[
+				"hg",
+				"hgraph	map[string][]string ʈ"
+			],
+			[
+				"comm",
+				"commitDict	map[string]*Commit ν"
+			],
+			[
+				"func",
+				"func (*Workspace)	func (...) {...} ʂ"
+			],
+			[
+				"fun",
+				"func (*Workspace)	func (...) {...} ʂ"
+			],
+			[
+				"NewUuid",
+				"NewUuidHex	*blobstore.Uuid ƒ"
+			],
+			[
+				"appen",
+				"appendIP"
+			],
+			[
+				"appendIP",
+				"appendIPVersion"
+			],
+			[
+				"append",
+				"appendIPVersion"
+			],
+			[
+				"get",
+				"getJSON"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"Mar",
+				"Marshal	[]byte, error ƒ"
+			],
+			[
+				"St",
+				"Stdout	*os.File ν"
+			],
+			[
+				"B",
+				"BlobID	struct ʈ"
+			],
+			[
+				"newU",
+				"newUuid	uuid ƒ"
+			],
+			[
+				"u",
+				"uint32"
+			],
+			[
+				"Set",
+				"SetPointer	 ƒ"
+			],
+			[
+				"I",
+				"IPVersionCollection	struct ʈ"
+			],
+			[
+				"D",
+				"DerivativeResource	struct ʈ"
+			],
+			[
+				"H",
+				"Header	http.Header ν"
+			],
+			[
+				"Der",
+				"Derivative	struct ʈ"
+			],
+			[
+				"res",
+				"Resource	struct ʈ"
+			],
+			[
+				"P",
+				"Project	struct ʈ"
+			],
+			[
+				"Maturity",
+				"MaturityTagCollection	struct ʈ"
+			],
+			[
+				"Form",
+				"FormatHandler	interface ¡"
+			],
+			[
+				"Ma",
+				"MaturityCollection	struct ʈ"
+			],
+			[
+				"Matu",
+				"MaturityResource	struct ʈ"
+			],
+			[
+				"Me",
+				"Message	interface ¡"
+			],
+			[
+				"Rou",
+				"Router	struct ʈ"
+			],
+			[
+				"entity",
+				"entityId	string ν"
+			],
+			[
+				"Matur",
+				"MaturityTag	struct ʈ"
+			],
+			[
+				"pro",
+				"project	*entity.Project ν"
+			],
+			[
+				"New",
+				"NewV5	u *uuid.UUID, err error ƒ"
+			],
+			[
+				"Get",
+				"GetDerivativesByProject	[]entity.Derivative ƒ"
+			],
+			[
+				"Deriv",
+				"Derivative_	*MetaEntity ν"
+			],
+			[
+				"In",
+				"Interface	i interface{} ƒ"
+			],
+			[
+				"Type",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"K",
+				"Kind	reflect.Kind ƒ"
+			],
+			[
+				"Par",
+				"ParseType	*MetaEntity ƒ"
+			],
+			[
+				"FieldBy",
+				"FieldByName	reflect.Value ƒ"
+			],
+			[
+				"Interface",
+				"CanInterface	bool ƒ"
+			],
+			[
+				"Field",
+				"FieldByIndex	reflect.Value ƒ"
+			],
+			[
+				"V",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"Log",
+				"Logf	 ƒ"
+			],
+			[
+				"L",
+				"ToLower	string ƒ"
+			],
+			[
+				"na",
+				"nameok	bool ν"
+			],
+			[
+				"Key",
+				"KeyName	 Ɩ"
+			],
+			[
+				"F",
+				"StructField	struct ʈ"
+			],
+			[
+				"ser",
+				"serverErrorf	 ƒ"
+			],
+			[
+				"newH",
+				"newHash	hash ƒ"
+			],
+			[
+				"NewH",
+				"newHashHex	hash ƒ"
+			],
+			[
+				"name",
+				"name_master	string ν"
+			],
+			[
+				"Gt",
+				"GetUuid	*Uuid ƒ"
+			],
+			[
+				"Ch",
+				"CheckoutCommit	err error ƒ"
+			],
+			[
+				"E",
+				"Edit	 ƒ"
+			],
+			[
+				"Blo",
+				"BlobID	struct ʈ"
+			],
+			[
+				"Commit",
+				"commit	*Hash ν"
+			],
+			[
+				"En",
+				"NewEncoder	*json.Encoder ƒ"
+			],
+			[
+				"UNma",
+				"Unmarshaler	interface ¡"
+			],
+			[
+				"Exte",
+				"ExtensionDesc	struct ʈ"
+			],
+			[
+				"Register",
+				"RegisteredExtensions	map[int32]*proto.ExtensionDesc ƒ"
+			],
+			[
+				"Blob",
+				"BlobOf	*blobstore.Blob ƒ"
+			],
+			[
+				"Marsha",
+				"Marshaler	interface ¡"
+			],
+			[
+				"t",
+				"tfunc	Type Function"
+			],
+			[
+				"new",
+				"newUuidHex	uuid ƒ"
+			],
+			[
+				"c",
+				"Consumption	*blobstore.Reference ν"
+			],
+			[
+				"duy",
+				"dummyuuid	 Ɩ"
+			],
+			[
+				"du",
+				"dummyuuid	 Ɩ"
+			],
+			[
+				"dumm",
+				"dummycontenthash	 Ɩ"
+			],
+			[
+				"has",
+				"hashBytes	h nhash ƒ"
+			],
+			[
+				"g",
+				"GetRoot	*Reference ƒ"
+			],
+			[
+				"newu",
+				"newUuidHex	*nuuid ƒ"
+			],
+			[
+				"Roo",
+				"RootUuid	*nuuid ν"
+			],
+			[
+				"r",
+				"RegisterBackendStore	 ƒ"
+			],
+			[
+				"newUui",
+				"newUuids	nuuids []nuuid ƒ"
+			],
+			[
+				"bac",
+				"backend	BackendStore ν"
+			],
+			[
+				"read",
+				"readUint64	*uint32 ƒ"
+			],
+			[
+				"Uint",
+				"Uint64	uint64 ƒ"
+			],
+			[
+				"U",
+				"Uuid	struct ʈ"
+			],
+			[
+				"lex",
+				"lexSpace	stateFn ƒ"
+			],
+			[
+				"Read",
+				"ReadFile	[]byte, error ƒ"
+			],
+			[
+				"le",
+				"lexText	stateFn ƒ"
+			],
+			[
+				"mmE",
+				"mmEofCode	 Ɩ"
+			],
+			[
+				"a",
+				"acceptRun	 ƒ"
+			],
+			[
+				"st",
+				"stateFn	func(*lexer) stateFn ʈ"
+			],
+			[
+				"mmP",
+				"mmParse	int ƒ"
+			],
+			[
+				"YACC",
+				"YACCFILES"
+			],
+			[
+				"MetaType_",
+				"MetaType_unique	 Ɩ"
+			],
+			[
+				"Execute",
+				"ExecuteTemplate	error ƒ"
+			],
+			[
+				"Meta",
+				"MetaPackage	struct ʈ"
+			],
+			[
+				"Std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"Print",
+				"Printf	 ƒ"
+			],
+			[
+				"Re",
+				"Repeated	*bool ν"
+			],
+			[
+				"s",
+				"Stdout	*os.File ν"
+			],
+			[
+				"f",
+				"func (*Solver)	func (...) {...} ʂ"
+			],
+			[
+				"hash",
+				"hashMarshalBlob	h nhash, bytes []byte ƒ"
+			],
+			[
+				"topo",
+				"toposort	[]nhash ν"
+			],
+			[
+				"T",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"top",
+				"toposort	[]nhash ν"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"E_Mo",
+				"E_Mode	*proto.ExtensionDesc ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Ref: Web API Design.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "List",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"Snippet: bm",
+				"Snippet: bm-web-api-design"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gitc",
+				"Git: Commit history"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"Snippet: ",
+				"Snippet: go func()"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"prot",
+				"Set Syntax: Protocol Buffers"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"sygo",
+				"Set Syntax: GoSublime"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"gos",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"brow",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"goto",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"gosgo",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"gosdo",
+				"GoSublime: Show documentation hint"
+			],
+			[
+				"gosu",
+				"GoSublime: Browse Files"
+			],
+			[
+				"grap",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"sublimeGDB",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"gd",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"gdbst",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mdwww",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"wser",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"md pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"md",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"vie",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"syrs",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pro",
+				"Set Syntax: Protocol Buffers"
+			],
+			[
+				"m",
+				"Build: messages: make"
+			],
+			[
+				"ma",
+				"Build: messages: make"
+			],
+			[
+				"Gosublime",
+				"GoSublime: User Settings"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"protob",
+				"Set Syntax: Protocol Buffers"
+			],
+			[
+				"cle",
+				"Build: messages: clean"
+			],
+			[
+				"mak",
+				"Build: messages: make"
+			],
+			[
+				"messa",
+				"Build: messages: make"
+			],
+			[
+				"saveA",
+				"File: Save All"
+			],
+			[
+				"messm",
+				"Build: messages: make"
+			],
+			[
+				"messce",
+				"Build: messages: clean"
+			],
+			[
+				"mes",
+				"Build: messages: make"
+			],
+			[
+				"mess",
+				"Build: messages: make"
+			],
+			[
+				"me",
+				"Build: messages: make"
+			],
+			[
+				"clea",
+				"Build: messages: clean"
+			],
+			[
+				"make ",
+				"Build: make messages"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"proto",
+				"Set Syntax: Protocol Buffers"
+			],
+			[
+				"blob",
+				"Build: make blobstore"
+			],
+			[
+				"wc",
+				"Build: Word Count (current file)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 273.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eric/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eric/.config/sublime-text-2/Packages/User/bm-web-api-design.sublime-snippet",
+		"/home/eric/gs.png",
+		"/home/eric/gs.dat",
+		"/home/eric/bin/eplot",
+		"/home/eric/gs.gnu",
+		"/home/eric/gs",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/view/views.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/skeleton.tmpl",
+		"/home/eric/Workspace/git/ng/powerkit/videodecoder.tcl",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/powercard.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/css/powercard.css",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/IPTemplate.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/css/mathjax.html",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/IPs.js",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/ip.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/workspace.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/resource.go",
+		"/home/eric/Desktop/invalid.json",
+		"/home/eric/Workspace/git/ng/messages/src/doceapower.com/ptng/messages/business.proto",
+		"/home/eric/Desktop/valid.json",
+		"/home/eric/Workspace/git/ng/blobstore/icon-font/Makefile",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/frontend.go",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/templatelog.js",
+		"/home/eric/Workspace/git/ng/powerkit/powerkit.tcl",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/ipversion.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/store.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/query.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/templates.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/derivative.go",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/git/Merge.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/git/MergeBuilder.java",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/merge.go",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/Update.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/PatchVisitor.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/PatchSet.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/Patches.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/PatchBuilder.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/Patch.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/package-info.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/Insert.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/DropTable.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/Delete.java",
+		"/home/eric/Workspace/git/h/neoql/src/main/java/net/ericaro/neoql/patches/CreateTable.java",
+		"/home/eric/Workspace/git/ng/frontend/Makefile",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/Projects.js",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/projectlog.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/project.go",
+		"/home/eric/Workspace/git/ng/frontend/Readme.md",
+		"/home/eric/Workspace/git/ng/frontend/app/www/css/default.css",
+		"/home/eric/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/eric/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/view/view.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity/entity.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/main.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/templatelibrary.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/iplibrary.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/iplog.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/projectlibrary.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/projectlog.js",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/projectlog.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/macroblockCommit.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/projectlibrary.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/iplog.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/macroblockedition.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/library.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/app/app.yaml",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/library.js",
+		"/home/eric/Workspace/git/ng/frontend/app/www/macroblock.html",
+		"/home/eric/Workspace/git/ng/frontend/app/www/scripts/block.js",
+		"/home/eric/Workspace/git/ng/frontend/edit.json",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/library.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/editor.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/graph.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/hash.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/editor.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/blobstore.go",
+		"/home/eric/Workspace/git/ng/messages/src/doceapower.com/ptng/messages/business.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/block.tmpl",
+		"/home/eric/Workspace/git/ng/gaebackend/src/doceapower.com/ptng/gaebackend/gaebackend.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity/entitymanagement.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/blobid_test.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/ipmanagement.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/ipmanagement.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/IPVersion.json",
+		"/home/eric/Workspace/git/ng/frontend/IP.json",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/maturity.go",
+		"/home/eric/Workspace/git/ng/frontend/app/templates/projects.tmpl",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity/entitymanagement_test.go",
+		"/home/eric/Workspace/git/ng/frontend/derivative.json",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity/entity.proto",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/resource/iplibrary.proto",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/projectedition.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity/entity.pb.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/service/blobedition.go",
+		"/home/eric/Workspace/git/ng/gaebackend/Makefile",
+		"/home/eric/Workspace/git/ng/messages/Readme.md",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/encode.go",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/decode.go",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/tags.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/service/macroblock.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/service/powermodel.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/service/usecase.go",
+		"/home/eric/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entity.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entitymanagement_test.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/entitymanagement.go",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/macroblockedition.go",
+		"/home/eric/Workspace/git/ng/messages/src/doceapower.com/ptng/messages/store_test.go",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/stream.go",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/scanner.go",
+		"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/indent.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/workspace_test.go",
+		"/home/eric/Workspace/git/ng/messages/Makefile",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/blobstore.proto",
+		"/home/eric/Workspace/git/ng/frontend/app/www/taffy.html",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/blobstore.pb.go",
+		"/home/eric/Workspace/git/ng/messages/src/doceapower.com/ptng/messages/business.pb.go",
+		"/home/eric/Workspace/git/ng/messages/src/doceapower.com/ptng/messages/simulation.proto",
+		"/home/eric/Workspace/git/ng/frontend/src/doceapower.com/ptng/frontend/dto/usecase.proto",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/index.go",
+		"/home/eric/Workspace/git/ng/supermake/SuperMakefile",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/graph_test.go",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/digraph.dot",
+		"/home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ptng/blobstore/hash_test.go",
+		"/home/eric/Workspace/git/ng/blobstore/Makefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"overlay",
+			"alt+s",
+			"ctrl+r",
+			"snippe",
+			"MultiPlot",
+			"multiplot",
+			"throughput_default",
+			"ClockGated",
+			"post",
+			"submit",
+			"Static",
+			"static",
+			"Static",
+			"static",
+			"Static",
+			"static",
+			"Static",
+			"static",
+			"Static",
+			"IPResource",
+			"for *(",
+			"For",
+			"for",
+			"For",
+			"for",
+			"hidden",
+			"\\n\n			",
+			"\n			",
+			" \n",
+			"form",
+			"encodeURIComponent",
+			"TemplateLibrary",
+			"forkIPVersion",
+			"VideoDecoder",
+			"mpeg2",
+			"MBrate",
+			"showPowerKitURL",
+			"CreateRef",
+			"show",
+			"hide",
+			"newTemplateLi",
+			"I",
+			"newTemplateLi",
+			"add",
+			"IP",
+			"	 ",
+			"MacroblockCommits",
+			"ipversion",
+			"IPVersion",
+			"form",
+			"insertCommit",
+			"/api/",
+			"submit",
+			"appendIP",
+			"insertIPVersion",
+			"\\",
+			"insertCommit",
+			";",
+			"\\",
+			"getIPLibrary",
+			"f",
+			"li",
+			"\n	",
+			"li",
+			"getTemplateHistory",
+			"f",
+			"#",
+			"hide",
+			"insertTemplate",
+			"getTemplateLibrary",
+			"$",
+			"		$.",
+			"$",
+			"ajax",
+			"		$.",
+			"$",
+			"serverErrorf",
+			"serverError",
+			"prjlist",
+			"templates",
+			"this",
+			"version",
+			"Derivative_",
+			"derivative",
+			"Derivative",
+			"Project",
+			"getTemplate",
+			"inserttemplate",
+			"form#add",
+			"derivative",
+			"Derivative",
+			"project",
+			"Render",
+			"projectlog",
+			"ProjectLog",
+			"projectlibrary",
+			"ProjectLibrary",
+			"projectlibrary",
+			"ProjectLibrary",
+			"projectlibrary",
+			"ProjectLibrary",
+			"projectlog",
+			"ProjectLog",
+			"ip",
+			"ipversion",
+			"IP",
+			"IP_",
+			"IPVersion_",
+			"IPLog",
+			"MacroblockCommit",
+			"ip",
+			" \n",
+			"ip",
+			"mbcommits",
+			"ipversion",
+			"ipname",
+			"IPHistory",
+			"ipv",
+			"POST",
+			"post",
+			"POST",
+			"ipvs",
+			"ipvlist",
+			"ipid",
+			"ipversion",
+			"ip",
+			"ipv",
+			"appendIPVersion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blobstore.reference",
+			"proto.String(\\$$1)",
+			"package blobstore",
+			"HashBlob"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Ref: Web API Design.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/eric/Workspace/git/ng/blobstore/src/doceapower.com/ng/blobstore":
+	{
+		"height": 112.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 118.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 118.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 204.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 291.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vide",
+				"powerkit/videodecoder.tcl"
+			],
+			[
+				"po",
+				"frontend/app/www/scripts/powercard.js"
+			],
+			[
+				"ske",
+				"frontend/app/templates/skeleton.tmpl"
+			],
+			[
+				"views",
+				"frontend/src/doceapower.com/ptng/frontend/view/views.go"
+			],
+			[
+				"proto",
+				"messages/src/doceapower.com/ptng/messages/business.proto"
+			],
+			[
+				"ips",
+				"frontend/app/www/scripts/IPs.js"
+			],
+			[
+				"jax",
+				"frontend/app/www/css/mathjax.html"
+			],
+			[
+				"templ",
+				"frontend/app/www/scripts/IPTemplate.js"
+			],
+			[
+				"resour",
+				"frontend/src/doceapower.com/ptng/frontend/resource/resource.go"
+			],
+			[
+				"res",
+				"frontend/src/doceapower.com/ptng/frontend/resource/resource.go"
+			],
+			[
+				"editor",
+				"frontend/src/doceapower.com/ptng/frontend/editor.go"
+			],
+			[
+				"bus",
+				"messages/src/doceapower.com/ptng/messages/business.go"
+			],
+			[
+				"edi",
+				"frontend/edit.json"
+			],
+			[
+				"vie",
+				"frontend/src/doceapower.com/ptng/frontend/view/view.go"
+			],
+			[
+				"enco",
+				"/home/eric/Workspace/devtools/google_appengine/goroot/src/pkg/encoding/json/encode.go"
+			],
+			[
+				"_te",
+				"messages/src/doceapower.com/ptng/messages/store_test.go"
+			],
+			[
+				"ma",
+				"frontend/Makefile"
+			],
+			[
+				"blo",
+				"blobstore/src/doceapower.com/ptng/blobstore/blobstore.pb.go"
+			],
+			[
+				"hash",
+				"blobstore/src/doceapower.com/ptng/blobstore/hash.go"
+			],
+			[
+				"store",
+				"blobstore/src/doceapower.com/ptng/blobstore/store.go"
+			],
+			[
+				"wor",
+				"blobstore/src/doceapower.com/ptng/blobstore/workspace.go"
+			],
+			[
+				"test",
+				"messages/src/doceapower.com/ptng/messages/store_test.go"
+			],
+			[
+				"busin",
+				"messages/src/doceapower.com/ptng/messages/business.proto"
+			],
+			[
+				"blob",
+				"blobstore/src/doceapower.com/ptng/blobstore/blobstore.proto"
+			],
+			[
+				"simu",
+				"messages/src/doceapower.com/ptng/messages/simulation.proto"
+			],
+			[
+				"busine",
+				"messages/src/doceapower.com/ptng/messages/business.proto"
+			],
+			[
+				"work",
+				"blobstore/src/doceapower.com/ptng/blobstore/workspace_test.go"
+			],
+			[
+				"query",
+				"blobstore/src/doceapower.com/ptng/blobstore/query.go"
+			],
+			[
+				"usecase",
+				"frontend/src/doceapower.com/ptng/frontend/dto/usecase.proto"
+			],
+			[
+				"go",
+				"blobstore/src/doceapower.com/ptng/blobstore/store.go"
+			],
+			[
+				"grap",
+				"blobstore/src/doceapower.com/ptng/blobstore/graph.go"
+			],
+			[
+				"sto",
+				"blobstore/src/doceapower.com/ptng/blobstore/store.go"
+			],
+			[
+				"inde",
+				"blobstore/src/doceapower.com/ptng/blobstore/index.go"
+			],
+			[
+				"memtamodel_te",
+				"blobstore/src/doceapower.com/ptng/blobstore/metamodel_test.go"
+			],
+			[
+				"blobma",
+				"blobstore/Makefile"
+			],
+			[
+				"gaeb",
+				"gaebackend/src/doceapower.com/ptng/gaebackend/gaebackend.go"
+			],
+			[
+				"mak",
+				"messages/Makefile"
+			],
+			[
+				"in",
+				"frontend/www/index.html"
+			],
+			[
+				"messread",
+				"messages/Readme.md"
+			],
+			[
+				"frontma",
+				"frontend/Makefile"
+			],
+			[
+				"front",
+				"frontend/src/doceapower.com/ptng/frontend/frontend.go"
+			],
+			[
+				"rea",
+				"messages/Readme.md"
+			],
+			[
+				"gae",
+				"gaebackend/src/doceapower.com/ptng/gaebackend/gaebackend.go"
+			],
+			[
+				"store.p",
+				"messages/src/doceapower.com/ptng/store/store.pb.go"
+			],
+			[
+				"gaest",
+				"gaebackend/src/doceapower.com/ptng/gaebackend/gaestore.go"
+			],
+			[
+				"datast",
+				"/home/eric/.gpkrepository/google.com/appengine/master/src/appengine/datastore/datastore.go"
+			],
+			[
+				"fron",
+				"frontend/src/doceapower.com/ptng/frontend/frontend.go"
+			],
+			[
+				"blobs",
+				"blobstore/src/doceapower.com/ng/blobstore/blobstore.go"
+			],
+			[
+				"store.pb",
+				"messages/src/doceapower.com/ptng/store/store.pb.go"
+			],
+			[
+				"built",
+				"messages/src/doceapower.com/ptng/store/builtins.go"
+			],
+			[
+				"coman",
+				"messages/src/doceapower.com/ptng/store/commands.go"
+			],
+			[
+				"store_",
+				"messages/src/doceapower.com/ptng/business/store_test.go"
+			],
+			[
+				"update",
+				"messages/src/doceapower.com/ptng/store/update.go"
+			],
+			[
+				".proto",
+				"messages/protobuf/doceapower.com/ptng/store/store.proto"
+			],
+			[
+				"read",
+				"messages/Readme.md"
+			],
+			[
+				"test.go",
+				"blobstore/src/doceapower.com/ng/blobstore/blobstore_test.go"
+			],
+			[
+				"schea",
+				"ngscreens/scripts/generate-schemas.py"
+			],
+			[
+				"screma",
+				"ngscreens/Makefile"
+			],
+			[
+				"make",
+				"messages/Makefile"
+			],
+			[
+				"loca",
+				"messages/protobuf/doceapower.com/ptng/store/uc/localusecase.proto"
+			],
+			[
+				"local",
+				"messages/protobuf/doceapower.com/ptng/store/uc/localusecase.proto"
+			],
+			[
+				"",
+				"blobstore/src/doceapower.com/ng/blobstore/Hash.go"
+			],
+			[
+				".go",
+				"ngsolver/src/ng/ng.go"
+			],
+			[
+				"pin",
+				"messages/protobuf/doceapower.com/ptng/store/power/pin.proto"
+			],
+			[
+				"macr",
+				"messages/protobuf/doceapower.com/ptng/store/power/macroblock.proto"
+			],
+			[
+				"makefil",
+				"ngscreens/Makefile"
+			],
+			[
+				"share",
+				"messages/protobuf/doceapower.com/ptng/store/shared.proto"
+			],
+			[
+				"cu.",
+				"messages/protobuf/doceapower.com/ptng/store/power/cu/cu.proto"
+			],
+			[
+				"cu",
+				"messages/protobuf/doceapower.com/ptng/store/power/cu.proto"
+			],
+			[
+				".py",
+				"cockpit/src/sdk/__init__.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/eric/Workspace/git/apl/apl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 371.0,
+	"status_bar_visible": true
+}
