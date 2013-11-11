@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-[Web API Design](http://goo.gl/wrjK2)
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>webapidesign</tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>

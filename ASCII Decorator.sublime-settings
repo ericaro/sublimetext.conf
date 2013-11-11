@@ -1,4 +1,4 @@
 {
-    /* Name of the font file to use. */
+    /* Name of the font file to use. Banner has the most readibility on the minimap*/
     "ascii_decorator_font": "banner"
 }

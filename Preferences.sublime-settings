@@ -5,9 +5,5 @@
 	[
 		"SublimeGDB",
 		"Vintage"
-	],
-	"ignored_words":
-	[
-		"powerteam/uid"
 	]
 }

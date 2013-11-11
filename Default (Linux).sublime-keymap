@@ -1,0 +1,145 @@
+[
+
+// navigation history binding (see plugin)
+
+  { "keys": ["alt+left"], "command": "navigation_history_back"},
+  { "keys": ["alt+right"], "command": "navigation_history_forward"},
+
+//override search next, f3 search the current selection, or the current word
+// successive press F3 expand the selection, ctrl=F3 skip the current occurence
+{ "keys": ["f3"], "command": "find_under_expand" },
+{ "keys": ["ctrl+f3"], "command": "find_under_expand_skip"},
+
+// override default behaviour: ctrl+d delete a line
+{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"}},
+
+//overrides prompt_save_as, to save all
+{ "keys": ["ctrl+shift+s"], "command": "save_all"},
+// new shortcut, format the current file
+{ "keys": ["ctrl+shift+f"], "command": "reindent" , "args": {"single_line": false}},
+
+
+// override the line manipulation
+// alt up and down move the line
+// with ctrl key press the same action duplicate the line
+{ "keys": ["alt+up"], "command": "swap_line_up" },
+{ "keys": ["alt+down"], "command": "swap_line_down" },
+{ "keys": ["ctrl+alt+down"], "command": "duplicate_lines" }, //duplicate_lines
+{ "keys": ["ctrl+alt+up"], "command": "duplicate_lines" },
+
+// new command display the console, the original key is unpractical on french keyboard
+{ "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+// new layout key set: 
+
+//maxpane stuff : maximize back and forth the current pane
+   { "keys": ["ctrl+shift+w"], "command": "max_pane" },
+//alt+shift then n = normal, v = vertical, h= horizontal, w wide (= maximize the current panel, back and forth)
+{
+	"keys": ["ctrl+shift+n"],
+	"command": "set_layout",
+	"args":
+	{
+		"cols": [0.0, 1.0],
+		"rows": [0.0, 1.0],
+		"cells": [[0, 0, 1, 1]]
+	}
+},
+{
+		"keys": ["ctrl+shift+v"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.5, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+},
+{
+		"keys": ["ctrl+shift+h"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 1.0],
+			"rows": [0.0, 0.5, 1.0],
+			"cells": [[0, 0, 1, 1], [0, 1, 1, 2]]
+		}
+},
+
+// huge bunch of keys for gosublime because by default it uses ctrl+. which is unpractical on french keyboard
+// I keep only the one I use, others are avaible though the palette
+
+	{
+		"keys": ["ctrl+;", "ctrl+p"],
+		"command": "gs_palette",
+		"args": {"palette": "imports", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+d"],
+		"command": "gs_palette",
+		"args": {"palette": "declarations", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+e"],
+		"command": "gs_palette",
+		"args": {"palette": "errors", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+i"],
+		"command": "gs_palette",
+		"args": {"palette": "jump_to_imports"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+g"],
+		"command": "gs_doc",
+		"args": {"mode": "goto"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+h"],
+		"command": "gs_doc",
+		"args": {"mode": "hint"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+;"],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "text": "GoSublime: "}
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+n"],
+		"command": "gs_new_go_file"
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+a"],
+		"command": "gs_browse_declarations"
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+l"],
+		"command": "gs_browse_declarations",
+		"args": { "dir": "." },
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+o"],
+		"command": "gs_browse_packages"
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+m"],
+		"command": "gs_browse_files"
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+t"],
+		"command": "gs_test",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+;", "ctrl+space"],
+		"command": "gs_show_call_tip",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	}
+]

@@ -1,4 +1,5 @@
 GoSublime
-Default*
+Package Control.cache
 *.last-run
 *.cache
+GoSublime-aux.sublime-settings
