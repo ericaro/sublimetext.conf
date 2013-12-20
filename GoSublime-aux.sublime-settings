@@ -22,8 +22,8 @@
 		"help",
 		"build"
 	],
-	"ann": "a13.10.05-1",
-	"install_version": "r13.10.05-1",
+	"ann": "a13.12.19-1",
+	"install_version": "r13.12.19-1",
 	"mg9_install_tokens": "r13.04.01-1",
-	"version": "r13.10.05-1"
+	"version": "r13.12.19-1"
 }

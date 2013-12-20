@@ -1,1 +1,5 @@
-{}
+{
+	"autocomplete_live_hint": true,
+	"autocomplete_suggest_imports": true,
+	"autocomplete_builtins": true
+}

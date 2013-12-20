@@ -16,7 +16,7 @@
 //overrides prompt_save_as, to save all
 { "keys": ["ctrl+shift+s"], "command": "save_all"},
 // new shortcut, format the current file
-{ "keys": ["ctrl+shift+f"], "command": "reindent" , "args": {"single_line": false}},
+//{ "keys": ["ctrl+shift+f"], "command": "reindent" , "args": {"single_line": false}},
 
 
 // override the line manipulation
