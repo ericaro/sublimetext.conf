@@ -1,0 +1,20 @@
+{
+	"fmt_cmd":["goimports"],
+	// whether or not to include snippets in the auto-completion list
+	"autocomplete_snippets": true,
+	
+	// whether or not builtin types and functions should be shown in the auto-completion list
+	"autocomplete_builtins": true,
+
+	// whether or not to show an expanded(closure) version of func types in the auto-completion list
+	// e.g. `type Fun func(i int)`
+	// will result in two entries `Fun` and `Fun {}`
+	// expanding to `Fun` and `func(i) {...}` respectively
+	"autocomplete_closures": true,
+
+	// whether or not autocomplete should suggest possible imports when autocomplete fails to
+	// find a match.
+	// note: this feature only comes into effect when autocomplete was triggered after a dot, e.g. `fmt.|`
+	"autocomplete_suggest_imports": false
+
+}
