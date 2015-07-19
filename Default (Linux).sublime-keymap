@@ -27,4 +27,6 @@
 { "keys": ["alt+p"], "command": "gs_palette", "args": {"palette":"imports", "direct":true}},
 
 
+{ "keys": ["ctrl+;", "ctrl+space"], "command": "gs_show_call_tip"},
+
 ]
