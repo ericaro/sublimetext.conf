@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Duplicate Lines",
 		"Git",
 		"GoSublime",
 		"Package Control"
