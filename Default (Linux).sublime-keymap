@@ -17,6 +17,7 @@
 { "keys": ["alt+up"], "command": "swap_line_up" },
 { "keys": ["alt+down"], "command": "swap_line_down" },
 { "keys": ["ctrl+alt+down"], "command": "duplicate_lines" },
+{ "keys": ["ctrl+alt+up"], "command": "duplicate_lines", "args":{"up": true} },
 
 { "keys": ["ctrl+alt+c"], "command": "show_panel", "args":{"panel":"console", "toggle": true} },
 
